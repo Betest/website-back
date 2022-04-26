@@ -16,3 +16,5 @@ export class ImageDto {
     @ApiProperty()
     backgroundColor: string;
 }
+
+module.exports = ImageDto;
